@@ -1,0 +1,3 @@
+requests==2.22.0
+oss2==2.15.0
+urllib
